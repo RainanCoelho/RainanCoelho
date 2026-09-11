@@ -87,6 +87,11 @@ O projeto utiliza Inteligência Artificial como apoio na geração e adaptação
 ---
 
 ## Estatísticas
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D 2026" width="800">
+</div>
+
 <p align="center">
   <img
     src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=RainanCoelho"
