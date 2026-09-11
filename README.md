@@ -40,7 +40,7 @@ O sistema possui diferentes tipos de usuários, como clientes, vendedores, motor
 - Bean Validation
 
 🔗 [Ver projeto]
-([https://github.com/RainanCoelho/NOME-DO-REPOSITORIO](https://github.com/RainanCoelho/Sistema_Gestao_Logistica_API.git))  
+https://github.com/RainanCoelho/Sistema_Gestao_Logistica_API.git 
 
 ---
 
