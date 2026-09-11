@@ -37,7 +37,7 @@ API REST desenvolvida para gerenciamento de produtos, usuários, estoque, pedido
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=RainanCoelho&show_icons=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=RainanCoelho&show_icons=true&include_all_commits=true"/>
 
 <img height="170em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanCoelho&layout=compact"/>
@@ -50,17 +50,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanCoelho
 
 <div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=RainanCoelho"
-/>
+<img src="https://streak-stats.demolab.com?user=RainanCoelho" />
 
 </div>
-
----
-
-## 📈 Gráfico de contribuições
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RainanCoelho)](https://github.com/RainanCoelho)
 ---
 
 ## 📫 Contato
