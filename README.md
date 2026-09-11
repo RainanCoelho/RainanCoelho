@@ -111,9 +111,6 @@ O projeto utiliza Inteligência Artificial como apoio na geração e adaptação
 </p>
 
 
-Você pode acompanhar meus projetos, estudos e evolução através dos meus repositórios.
-
-🔗 [github.com/RainanCoelho](https://github.com/RainanCoelho)
 
 ---
 
