@@ -92,19 +92,10 @@ O projeto utiliza Inteligência Artificial como apoio na geração e adaptação
   <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D 2026" width="800">
 </div>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=RainanCoelho"
-    width="700"
-  />
-</p>
+![Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=RainanCoelho&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=RainanCoelho&show_icons=true"
-    width="49%"
-  />
-</p>
+![Stats](https://github-readme-stats.tuhidulhossain.com/api/stats?username=RainanCoelho&theme=tokyonight&show_icons=true)
+
 
 
 
