@@ -110,15 +110,6 @@ O projeto utiliza Inteligência Artificial como apoio na geração e adaptação
   />
 </p>
 
-## 📊 GitHub
-
-<div align="left">
-
-<a href="https://github.com/RainanCoelho">
-  <img src="https://img.shields.io/badge/GitHub-RainanCoelho-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 Você pode acompanhar meus projetos, estudos e evolução através dos meus repositórios.
 
