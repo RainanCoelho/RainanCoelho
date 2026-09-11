@@ -39,7 +39,7 @@ O sistema possui diferentes tipos de usuários, como clientes, vendedores, motor
 - Lombok
 - Bean Validation
 
-🔗 [Ver projeto]
+🔗 Projeto em desenvolvimento
 https://github.com/RainanCoelho/Sistema_Gestao_Logistica_API.git 
 
 ---
