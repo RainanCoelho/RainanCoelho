@@ -34,15 +34,13 @@ API REST desenvolvida para gerenciamento de produtos, usuários, estoque, pedido
 
 ## 📊 GitHub
 
-<div align="center">
+<p align="left">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=RainanCoelho&show_icons=true&theme=tokyonight&count_private=true" />
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=RainanCoelho&show_icons=true&include_all_commits=true"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanCoelho&layout=compact"/>
-
-</div>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanCoelho&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
