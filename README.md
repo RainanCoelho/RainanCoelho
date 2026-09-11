@@ -59,6 +59,7 @@ O projeto utiliza Inteligência Artificial como apoio na geração e adaptação
 - Banco de Dados
 
 🔗 Projeto em desenvolvimento
+https://github.com/RainanCoelho/SistemaAPI_PIBIC.git
 
 ---
 
