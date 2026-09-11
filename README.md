@@ -104,10 +104,6 @@ O projeto utiliza Inteligência Artificial como apoio na geração e adaptação
     src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=RainanCoelho&show_icons=true"
     width="49%"
   />
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=RainanCoelho"
-    width="49%"
-  />
 </p>
 
 
