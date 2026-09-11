@@ -1,12 +1,13 @@
-# Olá! Eu sou Rainan Araújo Coelho👋
+# Olá! Eu sou Rainan Coelho 👋
 
 ### 👨‍💻 Sobre mim
 
 - 🎓 Graduando em Engenharia de Software pela UNIFSA.
-- 💻 Interesse em desenvolvimento Back-end e Banco de Dados.
-- 🚀 Atualmente estudando Java, Spring Boot e desenvolvimento de APIs REST.
-- 📚 Em constante evolução, buscando boas práticas e organização de código.
-- 🤝 Aberto a oportunidades, projetos e novos desafios na área de tecnologia.
+- 💻 Interesse em desenvolvimento Back-end, Front-end e Banco de Dados.
+- ☕ Atualmente aprofundando meus conhecimentos em Java e Spring Boot.
+- 🗄️ Experiência acadêmica com desenvolvimento de APIs REST e PostgreSQL.
+- 🚀 Em constante evolução, com foco em boas práticas, organização de código e resolução de problemas.
+- 🤝 Aberto a aprendizado, colaboração em projetos e novas oportunidades na área de tecnologia.
 
 ---
 
@@ -22,47 +23,96 @@
 
 ## 🚀 Principais Projetos
 
-### 📦 Sistema de Gestão Logística
+### 📦 Sistema de Gestão Logística e Entregas
 
-API REST desenvolvida para gerenciamento de produtos, usuários, estoque, pedidos e entregas.
+API REST desenvolvida para gerenciamento de produtos, usuários, estoque, pedidos, pagamentos e entregas.
 
-**Tecnologias:** Java, Spring Boot, Spring Data JPA e PostgreSQL.
+O sistema possui diferentes tipos de usuários, como clientes, vendedores, motoristas e estoquistas, permitindo o gerenciamento de diferentes etapas do processo logístico.
 
-[Link do Projeto]
-🔗 https://github.com/RainanCoelho/Sistema_Gestao_Logistica_API.git
+**Tecnologias utilizadas:**
 
+- Java
+- Spring Boot
+- Spring Data JPA
+- PostgreSQL
+- Maven
+- Lombok
+- Bean Validation
 
-## 📊 GitHub
-
-<p align="left">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=RainanCoelho&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanCoelho&layout=compact&theme=tokyonight" />
-</p>
+🔗 [Ver projeto](https://github.com/RainanCoelho/NOME-DO-REPOSITORIO)
 
 ---
 
-## 🔥 Atividade no GitHub
+### 🩺 Sistema de Casos Clínicos com Inteligência Artificial
 
-<div align="center">
+Sistema desenvolvido para auxiliar professores e alunos da área da saúde na criação, organização e utilização de casos clínicos.
 
-<img src="https://streak-stats.demolab.com?user=RainanCoelho" />
+O projeto utiliza Inteligência Artificial como apoio na geração e adaptação de conteúdos clínicos.
+
+**Tecnologias utilizadas:**
+
+- Java
+- Spring Boot
+- Spring AI
+- API REST
+- Banco de Dados
+
+🔗 Projeto em desenvolvimento
+
+---
+
+## 💻 Conhecimentos
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+---
+
+## 📂 Áreas de Interesse
+
+- ☕ Desenvolvimento Back-end com Java
+- 🌱 Spring Boot
+- 🔗 Desenvolvimento de APIs REST
+- 🗄️ Banco de Dados
+- 🌐 Desenvolvimento Web
+- 🤖 Inteligência Artificial aplicada a sistemas
+- 🏗️ Arquitetura e organização de software
+
+---
+
+## 📊 GitHub
+
+<div align="left">
+
+<a href="https://github.com/RainanCoelho">
+  <img src="https://img.shields.io/badge/GitHub-RainanCoelho-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+Você pode acompanhar meus projetos, estudos e evolução através dos meus repositórios.
+
+🔗 [github.com/RainanCoelho](https://github.com/RainanCoelho)
+
 ---
 
 ## 📫 Contato
 
 <div align="left">
 
-<a href="LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
+<a href="COLOQUE-SEU-LINKEDIN-AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-Rainan_Coelho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
+<a href="mailto:COLOQUE-SEU-EMAIL-AQUI">
+  <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -71,6 +121,6 @@ API REST desenvolvida para gerenciamento de produtos, usuários, estoque, pedido
 
 <div align="center">
 
-### Obrigado por visitar meu perfil! 👨‍💻
+### 🚀 Desenvolvendo, aprendendo e evoluindo constantemente.
 
 </div>
