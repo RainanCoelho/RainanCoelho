@@ -10,7 +10,7 @@
 - 🤝 Aberto a aprendizado, colaboração em projetos e novas oportunidades na área de tecnologia.
 
 ---
-# 📚 Pretendo aprender
+## 📚 Pretendo aprender
 
 Atualmente, pretendo expandir meus conhecimentos nas seguintes tecnologias:
 
