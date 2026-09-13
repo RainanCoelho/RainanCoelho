@@ -3,14 +3,13 @@
 ### 👨‍💻 Sobre mim
 
 - 🎓 Bacharelando em Engenharia de Software pela UNIFSA.
-- 💻 Interesse em desenvolvimento Back-end,e Banco de Dados.
+- 💻 Interesse em desenvolvimento Back-end e Banco de Dados.
 - ☕ Atualmente aprofundando meus conhecimentos em Java e Spring Boot.
 - 🗄️ Experiência acadêmica com desenvolvimento de APIs REST e PostgreSQL.
 - 🚀 Em constante evolução, com foco em boas práticas, organização de código e resolução de problemas.
 - 🤝 Aberto a aprendizado, colaboração em projetos e novas oportunidades na área de tecnologia.
 
 ---
-
 ## 🛠️ Tecnologias
 
 <div align="left">
