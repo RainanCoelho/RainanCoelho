@@ -17,14 +17,14 @@ Atualmente, pretendo expandir meus conhecimentos nas seguintes tecnologias:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" height="50" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Kubernetes"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50" height="50" alt="JWT"/>
 </div>
 
-Docker • Kubernetes • AWS • JWT
+Docker • Python(IA) • AWS • JWT
 
 ---
 ## 🛠️ Tecnologias
